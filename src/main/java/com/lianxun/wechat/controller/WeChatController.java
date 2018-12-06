@@ -1,6 +1,6 @@
 package com.lianxun.wechat.controller;
 
-import com.lianxun.wechat.Util.SignUtil;
+import com.lianxun.wechat.util.SignUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.GetMapping;
